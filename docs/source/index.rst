@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+N88 - Website cá cược trực tuyến hàng đầu Châu Á - n88.credit
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`N88 <https://n88.credit/>`_ nhà cái cá cược trực tuyến uy tín hàng đầu châu Á cung cấp cho bạn một sân chơi thú vị và công bằng. Từ những trò chơi casino trực tuyến đa dạng, những trận đấu thể thao hấp dẫn cùng vô vàn game phong phú khác.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 216D Mễ Cốc, Khu phố 8, Quận 8, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0955588222. 
 
-Contents
---------
+Email: info@n88.credit. 
 
-.. toctree::
+Website: https://n88.credit/
 
-   usage
-   api
+#n88 #fn88credit #trangchun88 #nhacain88
